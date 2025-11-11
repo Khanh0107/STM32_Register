@@ -1,8 +1,0 @@
-/*
- * stm32_gpio.c
- *
- *  Created on: Nov 7, 2025
- *      Author: Admin
- */
-
-#include "stm32_gpio.h"
